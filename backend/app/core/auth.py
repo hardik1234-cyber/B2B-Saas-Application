@@ -6,4 +6,4 @@ from app.core.clerk import clerk
 
 class AuthUser:
     def __init__(self):
-        pass
+        pass 
